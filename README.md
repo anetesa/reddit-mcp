@@ -1,6 +1,6 @@
 # Reddit MCP
 
-A private MCP server at `https://reddit.brelio.pl/mcp` that lets an assistant use Reddit as its owner: find posts
+A personal MCP server at `https://reddit.brelio.pl/mcp` that lets an assistant use Reddit as its owner: find posts
 worth answering, read threads and subreddit rules, follow the replies and score of the owner's comments, and post
 comments after the owner approves the exact text.
 
